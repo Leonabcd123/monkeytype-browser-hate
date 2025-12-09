@@ -84,6 +84,11 @@ https://github.com/monkeytypegame/monkeytype/blob/b92121f1801ac82e7ba5a59a8c0f6a
 
 <img width="1017" height="23" alt="image" src="https://github.com/user-attachments/assets/1b83fbfa-3ad0-473c-ba5b-355bfaf97faf" />
 
+
+https://github.com/monkeytypegame/monkeytype/blob/master/frontend/src/styles/test.scss#L610
+
+<img width="710" height="24" alt="image" src="https://github.com/user-attachments/assets/6e00b9ed-b6dc-4ba7-9664-eab48c580e24" />
+
 ## Chrome
 
 https://github.com/monkeytypegame/monkeytype/blob/b92121f1801ac82e7ba5a59a8c0f6a67a638c756/frontend/src/ts/sentry.ts#L60
