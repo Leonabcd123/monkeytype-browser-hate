@@ -68,6 +68,11 @@ https://github.com/monkeytypegame/monkeytype/blob/b92121f1801ac82e7ba5a59a8c0f6a
 
 <img width="205" height="25" alt="image" src="https://github.com/user-attachments/assets/af47e378-6988-4ece-9c2a-b615d388956d" />
 
+
+https://github.com/monkeytypegame/monkeytype/blob/master/frontend/src/styles/test.scss#L611
+
+<img width="1061" height="60" alt="image" src="https://github.com/user-attachments/assets/6bf41c06-4b36-4235-bebc-c5762178cf31" />
+
 ## Firefox
 
 https://github.com/monkeytypegame/monkeytype/blob/b92121f1801ac82e7ba5a59a8c0f6a67a638c756/frontend/src/ts/input/listeners/input.ts#L60
