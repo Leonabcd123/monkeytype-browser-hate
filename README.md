@@ -51,7 +51,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/in
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/elements/profile.ts#L412
 
-<img width="727" height="25" alt="image" src="https://github.com/user-attachments/assets/dd9933e8-f249-419f-b830-da6e1a6ffbdb" />
+<img width="717" height="24" alt="image" src="https://github.com/user-attachments/assets/2a3122be-c8b7-4f0b-bad0-df41d69aca46" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/input/helpers/input-type.ts#L4
