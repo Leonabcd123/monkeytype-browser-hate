@@ -6,7 +6,7 @@ A repository containing all comments in the source code of monkeytype that show 
 
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/media-queries.scss#L183
 
-<img width="191" height="25" alt="image" src="https://github.com/user-attachments/assets/2e072482-2c89-4ce2-aa18-6c4cf3966e96" />
+<img width="190" height="25" alt="image" src="https://github.com/user-attachments/assets/649d3d90-44b2-4301-8815-4d99e66c19ab" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/media-queries.scss#L526
@@ -16,17 +16,17 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/me
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/media-queries-blue.scss#L226
 
-<img width="191" height="24" alt="image" src="https://github.com/user-attachments/assets/e697a9c7-dd12-400a-b065-8303d7b99b45" />
+<img width="190" height="25" alt="image" src="https://github.com/user-attachments/assets/649d3d90-44b2-4301-8815-4d99e66c19ab" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/media-queries-green.scss#L163
 
-<img width="191" height="25" alt="image" src="https://github.com/user-attachments/assets/d49587be-5325-4daa-aef7-d00c2ee39fac" />
+<img width="190" height="25" alt="image" src="https://github.com/user-attachments/assets/649d3d90-44b2-4301-8815-4d99e66c19ab" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/profile.scss#L466
 
-<img width="193" height="22" alt="image" src="https://github.com/user-attachments/assets/165bebf2-ef49-4bbb-bb0d-e3adfae83350" />
+<img width="190" height="25" alt="image" src="https://github.com/user-attachments/assets/649d3d90-44b2-4301-8815-4d99e66c19ab" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/input/listeners/input.ts#L89
