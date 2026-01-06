@@ -36,12 +36,12 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/input/
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/core.scss#L120
 
-<img width="338" height="24" alt="image" src="https://github.com/user-attachments/assets/c3a39d56-7778-46cf-93d8-aa724d0a389e" />
+<img width="332" height="21" alt="image" src="https://github.com/user-attachments/assets/7c24eb61-d168-47dd-b5b4-16221ce76a71" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/profile.scss#L29
 
-<img width="333" height="30" alt="image" src="https://github.com/user-attachments/assets/ca57b736-f0c0-4b57-9fae-48360b759e59" />
+<img width="332" height="21" alt="image" src="https://github.com/user-attachments/assets/b5430e8c-56e2-4127-96e8-6917a59560b1" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/inputs.scss#L163
