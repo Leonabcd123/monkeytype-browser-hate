@@ -9,6 +9,26 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/me
 <img width="191" height="25" alt="image" src="https://github.com/user-attachments/assets/2e072482-2c89-4ce2-aa18-6c4cf3966e96" />
 
 \
+https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/media-queries.scss#L526
+
+<img width="190" height="25" alt="image" src="https://github.com/user-attachments/assets/649d3d90-44b2-4301-8815-4d99e66c19ab" />
+
+\
+https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/media-queries-blue.scss#L226
+
+<img width="191" height="24" alt="image" src="https://github.com/user-attachments/assets/e697a9c7-dd12-400a-b065-8303d7b99b45" />
+
+\
+https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/media-queries-green.scss#L163
+
+<img width="191" height="25" alt="image" src="https://github.com/user-attachments/assets/d49587be-5325-4daa-aef7-d00c2ee39fac" />
+
+\
+https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/profile.scss#L466
+
+<img width="193" height="22" alt="image" src="https://github.com/user-attachments/assets/165bebf2-ef49-4bbb-bb0d-e3adfae83350" />
+
+\
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/input/listeners/input.ts#L89
 
 <img width="914" height="57" alt="image" src="https://github.com/user-attachments/assets/5a1d1bfd-8287-4e11-99c4-1c627a7f1148" />
@@ -24,11 +44,6 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/pr
 <img width="333" height="30" alt="image" src="https://github.com/user-attachments/assets/ca57b736-f0c0-4b57-9fae-48360b759e59" />
 
 \
-https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/media-queries-blue.scss#L226
-
-<img width="191" height="24" alt="image" src="https://github.com/user-attachments/assets/e697a9c7-dd12-400a-b065-8303d7b99b45" />
-
-\
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/inputs.scss#L163
 
 <img width="761" height="24" alt="image" src="https://github.com/user-attachments/assets/16841b65-5931-4f29-9573-69a41b0d64f5" />
@@ -39,29 +54,14 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/elemen
 <img width="727" height="25" alt="image" src="https://github.com/user-attachments/assets/dd9933e8-f249-419f-b830-da6e1a6ffbdb" />
 
 \
-https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/profile.scss#L466
-
-<img width="193" height="22" alt="image" src="https://github.com/user-attachments/assets/165bebf2-ef49-4bbb-bb0d-e3adfae83350" />
-
-\
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/input/helpers/input-type.ts#L4
 
 <img width="617" height="21" alt="image" src="https://github.com/user-attachments/assets/45909429-40d2-45b1-b997-42c72e2f885f" />
 
 \
-https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/media-queries-green.scss#L163
-
-<img width="191" height="25" alt="image" src="https://github.com/user-attachments/assets/d49587be-5325-4daa-aef7-d00c2ee39fac" />
-
-\
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/test/funbox/funbox-functions.ts#L655
 
 <img width="1008" height="25" alt="image" src="https://github.com/user-attachments/assets/9313d54d-3d1b-4a2b-85eb-7d39744074b0" />
-
-\
-https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/media-queries.scss#L526
-
-<img width="190" height="25" alt="image" src="https://github.com/user-attachments/assets/649d3d90-44b2-4301-8815-4d99e66c19ab" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/pages/account.ts#L976
