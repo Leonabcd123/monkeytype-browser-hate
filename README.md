@@ -54,7 +54,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/me
 <img width="191" height="25" alt="image" src="https://github.com/user-attachments/assets/d49587be-5325-4daa-aef7-d00c2ee39fac" />
 
 
-https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/test/funbox/funbox-functions.ts#L645
+https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/test/funbox/funbox-functions.ts#L655
 
 <img width="1008" height="25" alt="image" src="https://github.com/user-attachments/assets/9313d54d-3d1b-4a2b-85eb-7d39744074b0" />
 
