@@ -31,7 +31,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/pr
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/input/listeners/input.ts#L89
 
-<img width="914" height="57" alt="image" src="https://github.com/user-attachments/assets/5a1d1bfd-8287-4e11-99c4-1c627a7f1148" />
+<img width="919" height="57" alt="image" src="https://github.com/user-attachments/assets/1a15eef1-aac9-4f97-96b0-30d2772d2378" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/core.scss#L120
