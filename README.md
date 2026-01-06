@@ -56,7 +56,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/elemen
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/input/helpers/input-type.ts#L4
 
-<img width="617" height="21" alt="image" src="https://github.com/user-attachments/assets/45909429-40d2-45b1-b997-42c72e2f885f" />
+<img width="609" height="26" alt="image" src="https://github.com/user-attachments/assets/858ac51f-0d26-4e07-9889-7e7d959a13ac" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/test/funbox/funbox-functions.ts#L655
