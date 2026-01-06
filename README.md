@@ -87,7 +87,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/sentry
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/test.scss#L614
 
-<img width="710" height="24" alt="image" src="https://github.com/user-attachments/assets/6e00b9ed-b6dc-4ba7-9664-eab48c580e24" />
+<img width="709" height="27" alt="image" src="https://github.com/user-attachments/assets/5067119e-a5bf-4a30-89e8-02c5af7a3f47" />
 
 ## Chrome
 
