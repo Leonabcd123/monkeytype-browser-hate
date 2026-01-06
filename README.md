@@ -71,7 +71,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/pages/
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/test.scss#L615
 
-<img width="1061" height="60" alt="image" src="https://github.com/user-attachments/assets/6bf41c06-4b36-4235-bebc-c5762178cf31" />
+<img width="1062" height="52" alt="image" src="https://github.com/user-attachments/assets/9123fcd0-cf14-41ff-bb0c-1594debf6087" />
 
 ## Firefox
 
