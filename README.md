@@ -101,11 +101,11 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/in
 <img width="447" height="28" alt="image" src="https://github.com/user-attachments/assets/949b53e1-448c-46a5-9185-6cf481299673" />
 
 
-https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/utils/debug.ts#L65
-
-<img width="397" height="23" alt="image" src="https://github.com/user-attachments/assets/a84f2960-8c22-4747-bbe5-9834e133d576" />
-
-
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/utils/debug.ts#L57
 
 <img width="397" height="23" alt="image" src="https://github.com/user-attachments/assets/9ccd94be-42ee-429b-86a7-837ce6928b45" />
+
+
+https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/utils/debug.ts#L65
+
+<img width="397" height="23" alt="image" src="https://github.com/user-attachments/assets/a84f2960-8c22-4747-bbe5-9834e133d576" />
