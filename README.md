@@ -98,7 +98,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/sentry
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/inputs.scss#L195
 
-<img width="447" height="28" alt="image" src="https://github.com/user-attachments/assets/949b53e1-448c-46a5-9185-6cf481299673" />
+<img width="450" height="21" alt="image" src="https://github.com/user-attachments/assets/7d166af2-6799-4631-8237-e25933e19707" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/utils/debug.ts#L57
