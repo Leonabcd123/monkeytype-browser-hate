@@ -91,7 +91,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/te
 
 ## Chrome
 
-https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/sentry.ts#L65
+https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/sentry.ts#L60
 
 <img width="857" height="57" alt="image" src="https://github.com/user-attachments/assets/67d341d6-7d30-4e85-899b-884993bd3628" />
 
