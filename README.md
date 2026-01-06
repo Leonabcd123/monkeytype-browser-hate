@@ -64,7 +64,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/me
 <img width="190" height="25" alt="image" src="https://github.com/user-attachments/assets/649d3d90-44b2-4301-8815-4d99e66c19ab" />
 
 
-https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/pages/account.ts#L975
+https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/pages/account.ts#L976
 
 <img width="205" height="25" alt="image" src="https://github.com/user-attachments/assets/af47e378-6988-4ece-9c2a-b615d388956d" />
 
