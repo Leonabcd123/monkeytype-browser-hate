@@ -69,7 +69,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/pages/
 <img width="205" height="25" alt="image" src="https://github.com/user-attachments/assets/af47e378-6988-4ece-9c2a-b615d388956d" />
 
 
-https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/test.scss#L611
+https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/test.scss#L615
 
 <img width="1061" height="60" alt="image" src="https://github.com/user-attachments/assets/6bf41c06-4b36-4235-bebc-c5762178cf31" />
 
