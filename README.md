@@ -61,7 +61,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/input/
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/test/funbox/funbox-functions.ts#L655
 
-<img width="1008" height="25" alt="image" src="https://github.com/user-attachments/assets/9313d54d-3d1b-4a2b-85eb-7d39744074b0" />
+<img width="1009" height="27" alt="image" src="https://github.com/user-attachments/assets/8e19f408-efa0-439c-a3cf-4cbf943816c7" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/pages/account.ts#L976
