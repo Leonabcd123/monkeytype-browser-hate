@@ -93,7 +93,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/te
 
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/sentry.ts#L60
 
-<img width="857" height="57" alt="image" src="https://github.com/user-attachments/assets/67d341d6-7d30-4e85-899b-884993bd3628" />
+<img width="857" height="52" alt="image" src="https://github.com/user-attachments/assets/80c05d09-3fb2-44e0-9abe-a353bacfd47a" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/inputs.scss#L195
