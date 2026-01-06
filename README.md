@@ -108,4 +108,4 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/utils/
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/utils/debug.ts#L65
 
-<img width="397" height="23" alt="image" src="https://github.com/user-attachments/assets/a84f2960-8c22-4747-bbe5-9834e133d576" />
+<img width="394" height="24" alt="image" src="https://github.com/user-attachments/assets/27d3be6d-06ea-4e7c-96f6-fa723384f7a4" />
