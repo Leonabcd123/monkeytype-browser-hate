@@ -66,7 +66,7 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/test/f
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/ts/pages/account.ts#L976
 
-<img width="205" height="25" alt="image" src="https://github.com/user-attachments/assets/af47e378-6988-4ece-9c2a-b615d388956d" />
+<img width="199" height="23" alt="image" src="https://github.com/user-attachments/assets/ce2c6c60-8b70-4640-9b34-4a1710d93f65" />
 
 \
 https://github.com/monkeytypegame/monkeytype/blob/v26.2.0/frontend/src/styles/test.scss#L615
