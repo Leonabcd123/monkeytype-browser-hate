@@ -79,6 +79,11 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.6.0/frontend/src/styles/te
 
 <img width="709" height="27" alt="image" src="https://github.com/user-attachments/assets/5067119e-a5bf-4a30-89e8-02c5af7a3f47" />
 
+\
+https://github.com/monkeytypegame/monkeytype/blob/v26.6.0/frontend/src/ts/utils/date-and-time.ts#L240
+
+<img width="697" height="25" alt="image" src="https://github.com/user-attachments/assets/1de863df-af91-457d-8126-b22114e5f641" />
+
 ## Chrome
 
 https://github.com/monkeytypegame/monkeytype/blob/v26.6.0/frontend/src/ts/sentry.ts#L60
