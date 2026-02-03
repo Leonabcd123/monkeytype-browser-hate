@@ -109,3 +109,14 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.6.0/frontend/src/ts/utils/
 https://github.com/monkeytypegame/monkeytype/blob/v26.6.0/frontend/src/ts/utils/debug.ts#L65
 
 <img width="394" height="24" alt="image" src="https://github.com/user-attachments/assets/27d3be6d-06ea-4e7c-96f6-fa723384f7a4" />
+
+\
+https://github.com/monkeytypegame/monkeytype/blob/v26.6.0/frontend/src/ts/ui.ts#L71
+
+<img width="585" height="24" alt="image" src="https://github.com/user-attachments/assets/fa4cde16-7506-4907-9e0a-6a1f6daa2bef" />
+
+## Edge
+
+https://github.com/monkeytypegame/monkeytype/blob/v26.6.0/frontend/src/ts/ui.ts#L71
+
+<img width="585" height="24" alt="image" src="https://github.com/user-attachments/assets/fa4cde16-7506-4907-9e0a-6a1f6daa2bef" />
