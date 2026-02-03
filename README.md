@@ -89,6 +89,11 @@ https://github.com/monkeytypegame/monkeytype/blob/v26.6.0/frontend/src/ts/test/t
 
 <img width="476" height="25" alt="image" src="https://github.com/user-attachments/assets/6c83006d-d810-4abc-a8a5-c8c5663bda57" />
 
+\
+https://github.com/monkeytypegame/monkeytype/blob/v26.6.0/frontend/src/styles/core.scss#L39
+
+<img width="147" height="27" alt="image" src="https://github.com/user-attachments/assets/0c71695a-79e4-45e0-8667-8cf0aa7d3510" />
+
 ## Chrome
 
 https://github.com/monkeytypegame/monkeytype/blob/v26.6.0/frontend/src/ts/sentry.ts#L60
